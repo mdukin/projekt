@@ -1,0 +1,27 @@
+button{   
+    padding: 20px;
+    text-align: center;
+    border-radius: 12px
+}
+
+#id {
+    height:50px;
+    font-size:14pt;
+}
+
+#rez{
+    padding: 20px;
+    text-align: center;
+    font-size:100pt;
+    color:red
+}
+
+
+#game {
+    justify-content: space-evenly;
+    display:none
+}
+
+body{
+    background-color:blanchedalmond
+}
